@@ -1,15 +1,13 @@
 # iGPT-notebook
 Intuitive image-GPT notebook designed to use in google colab combined with free GPU. The project uses pretrained weights and model open-sourced by OpenAI. 
 
-```
 The improvements over original repo:
 * simple hyperparameters choice via sliders etc. rather than command line
 * adding the option of completing cropped image
-```
 
 # Usage
-## 1) Copy the link
-First of all copy and run this link in your browser : [iGPT-notebook](https://colab.research.google.com/drive/1hv7W9AHl7cRAwBp3NVhn3dfpH3Db9mWO?usp=sharing)
+## 1) Click the link
+First of all click this link : [iGPT-notebook](https://colab.research.google.com/drive/1hv7W9AHl7cRAwBp3NVhn3dfpH3Db9mWO?usp=sharing)
 
 Make sure you go to `Runtime`, then `Change runtime type` and set the hardware accelerator to `GPU`. 
 
